@@ -28,7 +28,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo, os p
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/sabrinarprado">
+        href="https://www.linkedin.com/in/sabrinarprado/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
