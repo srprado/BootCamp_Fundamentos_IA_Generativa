@@ -3,7 +3,7 @@
   <img 
     src="./Imagens geradas/prompt2.png"
     width="300"
-    style="border-radius: 50%; object-fit: cover;"
+    style="border-radius: 100%; object-fit: cover;"
   />
 </p>
 
