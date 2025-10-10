@@ -13,10 +13,11 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo, os p
 
 ## ✨ Como foi feito ?
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Copilot Para gerar capas
+- Audio gerado pelo ElevenLabs
+- Copilot para gerar imagens de capas
 - Capcut para editar áudio e adicionar som de fundo
 
+---
 ## 👨‍💻 Expert
 
 <p>
