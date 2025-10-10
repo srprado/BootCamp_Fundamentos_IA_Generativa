@@ -1,7 +1,7 @@
 # Projeto de criação de um podcast feito com ferramentas de I.A.
 <p align="center">
   <img 
-    src="./Imagens geradas/prompt2.png"
+    src="./Imagens geradas/prompt2_circulo.png"
     width="300"
     height="300"
     style="border-radius: 50%; object-fit: cover;"
