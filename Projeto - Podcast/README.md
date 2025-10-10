@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./Imagens geradas/prompt2.png"
+    width="300"
+/>
+</p>
+
 # Projeto de criação de um podcast feito com ferramentas de I.A.
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
