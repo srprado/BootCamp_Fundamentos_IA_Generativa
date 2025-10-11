@@ -9,10 +9,10 @@
 # BootCamp_Fundamentos_IA_Generativa
 Neste Bootcamp, aprofundei meus conhecimentos sobre Inteligência Artificial Generativa, explorando suas principais ferramentas e aplicações. Ao longo do programa, desenvolvi projetos práticos e diversificados, aplicando os conceitos aprendidos para criar projetos reais e explorar o potencial criativo dessas tecnologias.
 
-##[Projeto1 - Criando um Podcast com IA](./Projeto1%20-%20Criando%20um%20Podcast%20com%20IA/)
+## [Projeto1 - Criando um Podcast com IA](./Projeto1%20-%20Criando%20um%20Podcast%20com%20IA/)
 > Projeto de criação de um episódio de podcast feito utilizando ferramentas de IA.
 
-##[Projeto2 - Criando um Ebook com IA](./Projeto2%20-%20Criando%20um%20Ebook%20com%20IA/)
+## [Projeto2 - Criando um Ebook com IA](./Projeto2%20-%20Criando%20um%20Ebook%20com%20IA/)
 > Projeto de criação de um Ebook feito utilizando ferramentas de IA e outras de criação de documentos.
 
 ---
