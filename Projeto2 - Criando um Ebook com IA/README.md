@@ -8,9 +8,9 @@
   />
 </p>
 
-Projeto com o objetivo de gerar um Ebook utilizando ferramentas de IA através de prompts mais trabalhado e Power Point.
+Projeto com o objetivo de gerar um Ebook utilizando ferramentas de IA através de prompts mais trabalhados e Power Point.
 
-Utilizei de prompts mais detalhadas para fazer com que os agentes de IA trabalhassem como mentores para me ajudar a refinar a ideia e construir o Ebook com um tema da minha preferência e que já tenho certo conhecimento.
+Utilizei de prompts mais detalhadas para fazer com que os agentes de IA trabalhassem como mentores para me ajudar a refinar a ideia e construir o Ebook com um tema da minha preferência e que já tenho certo conhecimento. O tema escolhido foi o tratamento e análise inicial de uma base de dados, tendo como intuito colaborar com quem esteja iniciando no mundo dos dados e quer sair do zero praticando a limpeza da base de dados que é essencial para as próximas etapas e geração de conhecimento.
 
 ## 💻 Tecnologias utilizadas no projeto
 
